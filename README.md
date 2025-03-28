@@ -11,9 +11,7 @@
 
 ## 1. Project Setup
 
-In the world of desktop application development, organization is key to creating maintainable and scalable applications. Before we dive into creating JavaFX applications, let's first understand how to structure our project effectively.
-
-I'll simplify the project structure section to focus just on what we need for this lab:
+Before we dive into creating JavaFX applications, let's first understand how to structure our project effectively.
 
 ### 1.1 Project Structure
 
