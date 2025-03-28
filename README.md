@@ -133,7 +133,7 @@ Now that we understand the basics, let's create our first real JavaFX applicatio
 Let's create a window that displays a welcome message:
 
 ```java
-public class Main extends Application {
+public class HelloWorld extends Application {
     
     @Override
     public void start(Stage primaryStage) {
